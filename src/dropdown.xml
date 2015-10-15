@@ -1,0 +1,15 @@
+<suite name="Grid Demo"  >
+  <test name="on firefox" >
+<parameter name="browser" value="firefox" />
+    <classes>
+       <class name="day24.DropdownOnGrid" />
+    </classes>
+  </test>
+	<test name="on chrome" >
+	<parameter name="browser" value="chrome" />
+    <classes>
+       <class name="day24.DropdownOnGrid" />
+    </classes>
+  </test>
+   
+ </suite>

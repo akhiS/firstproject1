@@ -1,0 +1,5 @@
+2015-10-15 19:10:19,231 INFO  [LoginUsingLog4J] Browser launched 
+2015-10-15 19:10:19,339 INFO  [LoginUsingLog4J] opened yahoomail 
+2015-10-15 19:10:25,204 INFO  [LoginUsingLog4J] entered username 
+2015-10-15 19:10:26,198 INFO  [LoginUsingLog4J] entered password 
+2015-10-15 19:10:26,810 INFO  [LoginUsingLog4J] clicked on login 
